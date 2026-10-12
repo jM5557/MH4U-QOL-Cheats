@@ -17,6 +17,8 @@ OR
 
 - Full Equipment Box in Villages & Hubs - Change equipment, appearance, and equipment sets directly from village and gathering hub item boxes without having to return to your house or room. Untested in multiplayer/online.
 
+- Hold "A" to Carve/Mine/Gather - Hold the "A" button when carving or gathering the same as in modern MH titles
+
 - Skip Quest End Timer (Hold A+B) - Allows you to skip the end of quest timer (usually 1 minute) after clearing a quest (similar to Monster Hunter Wilds). Skipping takes you to the rewards screen quicker. Press and hold the A and B buttons together for roughly ~1 second to activate.
 
 - Send All Rewards To Item Box (Hold X+Y) - Allows you to send all rewards to item box by holding X and Y (similar to new games that have that as an option).
